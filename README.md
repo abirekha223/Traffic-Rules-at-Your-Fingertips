@@ -35,6 +35,30 @@ This project addresses the issue by providing traffic-related information in one
 - User-friendly website interface.
 - Centralised access to traffic-related information.
 
+## ## Website Screenshots
+
+### Homepage
+![Homepage](screenshots/home_page.png)
+
+### Traffic Rules
+![Traffic Rules](screenshots/traffic_rules.png)
+
+### Road Signs
+![Road Signs](screenshots/road_signs.png)
+
+### Traffic Fines
+![Traffic Fines](screenshots/fines_and_penalties.png)
+
+### FAQ
+![Traffic Fines](screenshots/faq.png)
+
+### New Drivers Guide
+![Traffic Fines](screenshots/new_drivers.png)
+
+
+### Search
+![Traffic Fines](screenshots/search.png)
+
 ## Project Structure
 
 ```text
